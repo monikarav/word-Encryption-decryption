@@ -40,7 +40,7 @@ A simple and interactive web application to encrypt and decrypt text using vario
 </html>
 ```
 
-##paackage.json
+##package.json
 ```
 {
   "name": "vite-react-typescript-starter",
@@ -76,7 +76,7 @@ A simple and interactive web application to encrypt and decrypt text using vario
   }
 }
 ```
-##tsnode.json
+##tsconfif.nodejs.json
 ```
 {
   "compilerOptions": {
